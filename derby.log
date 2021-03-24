@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 01 12:46:49 PST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-ef8b-24df-000007dca0c8 
+on database directory memory:C:\Users\93764\Documents\Sexto\act2demo\act2demo\5d6b8224-9ebf-45ae-a068-77bafcc9afef with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/93764/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_281-b09
+user.dir=C:\Users\93764\Documents\Sexto\act2demo\act2demo
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
