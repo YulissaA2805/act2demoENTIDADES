@@ -1,7 +1,5 @@
 package com.example.act2demo.entities.habilidades;
 
-import com.example.act2demo.topic.Topic;
-import com.example.act2demo.topic.TopicRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
